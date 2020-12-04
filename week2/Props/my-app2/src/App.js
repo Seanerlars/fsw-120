@@ -2,6 +2,7 @@ import React from "react"
 import Boxes from "./box"
 
 function App() {
+    
     return (
         <div className="box">
             <Boxes
