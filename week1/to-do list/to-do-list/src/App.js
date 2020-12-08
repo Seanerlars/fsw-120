@@ -7,16 +7,16 @@ function App() {
   return (
     <div className="App">
       <input type="checkbox"/>
-      <p>Placeholder text here</p>
+      <p>Get Food</p>
 
       <input type="checkbox"/>
-      <p>Placeholder text here</p>
+      <p>Walk the Dog</p>
 
       <input type="checkbox"/>
-      <p>Placeholder text here</p>
+      <p>Take out the Trash</p>
 
       <input type="checkbox"/>
-      <p>Placeholder text here</p>
+      <p>Balance Check Book</p>
     </div>
   )
 }
