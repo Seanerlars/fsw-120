@@ -1,5 +1,5 @@
 import React from "react"
-import SuperItem from "./superItem"
+
 import superHeroData from "./superHeroData"
 
 class App extends React.Component {
@@ -28,15 +28,7 @@ class App extends React.Component {
         })
     }
     
-    render() {
-        const superItem = this.state.super.map(item => <SuperItem key={item.id} item={item} handleChange={this.handleChange}/>)
-        
-        return (
-            <div className="super-list">
-                {superItem}
-            </div>
-        )    
-    }
+    
 }
 
 export default App
