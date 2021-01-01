@@ -1,0 +1,43 @@
+h1 {
+    margin-left: 500px;
+}
+
+#fax1 {
+    width: 1000px;
+    height: 500px;
+    margin-left: 500px;
+}
+
+#home1 {
+    margin-left: 500px;
+    width: 1000px;
+    height: 600px;
+}
+
+html {
+    background-color: rgb(0, 238, 255);
+    ;
+}
+
+ul {
+    margin-left: 500px;
+    font-size: 20px;
+}
+
+#nav {
+    margin-left: 500px;
+}
+
+#footer {
+    margin-left: 500px;
+}
+
+.info1 {
+    margin-left: 500px;
+    width: 1000px;
+    height: 500px;
+
+}
+
+
+
