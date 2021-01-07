@@ -16,9 +16,9 @@ function App() {
         <Link to="/Info">Info</Link>
         <Link to="/fax">Fax</Link>
         
-        <Switch>
+        <Switch id="nav">
         
-                <Route exact path="/home"><Home /></Route>
+                <Route  exact path="/home"><Home /></Route>
                 
                 <Route exact path="/fax" >< Fax /> </Route>
                 <Route exact path="/Info">< Info /></Route>
@@ -26,7 +26,7 @@ function App() {
                
             </Switch>
 
-            <footer>
+            <footer id="footer">
                 Roto Plumbing<br></br>
                 608-577-9899<br></br>
                 RotoPlumbing.org

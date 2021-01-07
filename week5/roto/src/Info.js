@@ -14,7 +14,7 @@ function Info() {
             <li>We do not assist in business based operations, home visits only</li>
         </ul>
 
-        <img src="https://scplumbing.info/wp-content/uploads/2020/07/plumbing-logo-designs-vector-pipe-instaltation-and-water-symbol-vector-id1183496150.jpg"></img>
+        <img class="info1" src="https://scplumbing.info/wp-content/uploads/2020/07/plumbing-logo-designs-vector-pipe-instaltation-and-water-symbol-vector-id1183496150.jpg"></img>
         </div>
       
     )
