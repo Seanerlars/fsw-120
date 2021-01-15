@@ -1,0 +1,45 @@
+html{
+  font-size: 92.5%;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0%;
+  font: 1rem helvetica;
+  height: 100vh;
+}
+
+.App{
+  display: grid;
+  width: 70%;
+  flex-wrap: wrap;
+}
+
+.Main{
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 5px;
+}
+
+.Sidebar_Area {
+  width: 10%;
+  display: grid;
+  height: 40rem;
+  background-color: lightgrey;
+}
+
+.Main_Area{
+  width: 50%;
+  display: grid;
+  height: 40rem;
+  background-color: grey;
+}
+
+.tContainer{
+  height: 50%;
+  width: 50%;
+  padding: 100px;
+  justify-content: center;
+  background-color:  rgb(33, 138, 236);
+}
+
